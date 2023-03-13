@@ -12,19 +12,27 @@ Connect to blood is a project that is used to connect blood donors with patients
 
 ## Technologies
 
-Reactjs, Tailwindcss, Daisyui, Axios, SwiperJS, Animation on Scroll, React Router Dom, React Hook Form, Font Awesome, Lottie React, 
+Reactjs, Tailwindcss, Daisyui, Axios, SwiperJS, Animation on Scroll, React Router Dom, React Hook Form, Font Awesome, Lottie React, react-leaflet
 
 ## Features
 
-* Navbar - Implemented By Jahid Iqbal
+### Abdur Rahman Talha
+
 * Home Page
-  * Hero Section and slider - Abdur rahman Talha
-  * About us section - Abdur Rahman Talha
-  * Latest Blog - Jahid Iqbal
-  * Important Steps - Abdur Rahman Talha
-  * FAQ - Jahid Iqbal
-  * Contact Us - Abdur Rahman Talha
-  * Footer - Jahid Iqbal
+  * Hero Section and slider
+  * About us section
+  * Important Steps
+  * Contact Us
+* Dashboard
+  * Create Admin - Abdur Rahman Talha 
+  * Ban User - Abdur Rahman Talha
+  * Approve donor - Abdur Rahman Talha
+  * Edit Profile - Abdur Rahman Talha
+  * Your Articules - Abdur Rahman Talha
+  * Create blog - Jahid Iqbal
+
+
+* Navbar - Implemented By Jahid Iqbal
 * Blogs Detail - Jahid Iqbal
   * Dynamic Comments - Jahid Iqbal
   * Dynamic Like - Jahid Iqbal
