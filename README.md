@@ -29,6 +29,8 @@ Reactjs, Tailwindcss, Daisyui, Axios, SwiperJS, Animation on Scroll, React Route
   * Approve donor - Abdur Rahman Talha
   * Edit Profile - Abdur Rahman Talha
   * Your Articules - Abdur Rahman Talha
+* User Profile Page
+
 ### Jahid Iqbal 
 
 * Navbar - Implemented By Jahid Iqbal
