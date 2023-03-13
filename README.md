@@ -29,21 +29,18 @@ Reactjs, Tailwindcss, Daisyui, Axios, SwiperJS, Animation on Scroll, React Route
   * Approve donor - Abdur Rahman Talha
   * Edit Profile - Abdur Rahman Talha
   * Your Articules - Abdur Rahman Talha
-  * Create blog - Jahid Iqbal
-
+### Jahid Iqbal 
 
 * Navbar - Implemented By Jahid Iqbal
+* Blogs Page - Jahid Iqbal
 * Blogs Detail - Jahid Iqbal
   * Dynamic Comments - Jahid Iqbal
   * Dynamic Like - Jahid Iqbal
-* Map View - Ashikul Islam
 * Dashboard
-  * Create Admin - Abdur Rahman Talha 
-  * Ban User - Abdur Rahman Talha
-  * Approve donor - Abdur Rahman Talha
-  * Edit Profile - Abdur Rahman Talha
-  * Your Articules - Abdur Rahman Talha
   * Create blog - Jahid Iqbal
+
+### Ashikul Islam
+
 * Login / Register Form - Ashikul Islam
-* Blogs Page - Jahid Iqbal
+* Map View - Ashikul Islam
   
