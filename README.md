@@ -2,11 +2,18 @@
 
 Connect to blood is a project that is used to connect blood donors with patients who need blood.
 
+## [Live Site](https://connect-to-blood-client.vercel.app)
+## [Backend Repository](https://github.com/bitue/connect-to-blood-server)
+
 ## Contributers
 
 * Ashikul Islam - Team leader - Backend developer lead
 * Abdur Rahman Talha - Frontend Developer
 * Jahid Iqbal - Frontend Developer
+
+## Technologies
+
+Reactjs, Tailwindcss, Daisyui, Axios, SwiperJS, Animation on Scroll, 
 
 ## Features
 
