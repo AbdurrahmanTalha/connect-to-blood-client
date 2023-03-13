@@ -12,7 +12,7 @@ Connect to blood is a project that is used to connect blood donors with patients
 
 ## Technologies
 
-Reactjs, Tailwindcss, Daisyui, Axios, SwiperJS, Animation on Scroll
+Reactjs, Tailwindcss, Daisyui, Axios, SwiperJS, Animation on Scroll, React Router Dom, React Hook Form, Font Awesome, Lottie React, 
 
 ## Features
 
